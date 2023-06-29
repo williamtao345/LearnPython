@@ -9,6 +9,9 @@ print("Length: " + str(len(sentence)))
 # Check if something is in a sentence
 print("\"name\" is in sentence: " + str("name" in sentence))
 
+# Multiply string
+print("x" * 5)
+
 # Find the place of a substring
 print("\"is\" is at: " + str(sentence.find("is")))
 

@@ -1,0 +1,1 @@
+Software traceability is “the ability to interrelate any uniquely identifiable software engineering artifact to any other, maintain required links over time, and use the resulting network to answer questions of both the software

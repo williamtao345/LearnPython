@@ -8,3 +8,4 @@ else:
 
 if x and y:
     print("They are both correct.")
+    
