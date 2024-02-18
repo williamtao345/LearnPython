@@ -20,6 +20,11 @@ print("Upper case: " + sentence.upper())
 print("Title: " + sentence.title())
 
 print()
+print("x" * 10)
 print(sentence[3:7])
 print(sentence[11:])
 print(sentence[11:-1])
+
+print("""
+Hello!
+""")

@@ -3,7 +3,7 @@ y = False
 
 if x:
     print("X's correct.")
-else:
+elif not x:
     print("X isn't correct.")
 
 if x and y:
